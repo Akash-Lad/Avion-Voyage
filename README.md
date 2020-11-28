@@ -2,7 +2,7 @@
 Web-Based Application developed in Spring Boot Framework
 
 ### Problem Statement
-
+To ease out the process of Flight Booking & Check-In with interactive and responsive UI
 ### Domain
 
 ### Purpose of the Project
