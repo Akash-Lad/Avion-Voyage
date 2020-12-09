@@ -1,5 +1,5 @@
 # Avion-Voyage
-Web-Based Application developed in Spring Boot Framework
+Web-Based Application developed in React Boot Framework
 
 ### Problem Statement
 To ease out the process of Flight Booking & Check-In with interactive and responsive UI
